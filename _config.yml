@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               : "HubertDrazkow"
 facebook:
   username               :
   app_id                 :
@@ -81,8 +81,8 @@ analytics:
 # Site Author
 author:
   name             : "Hubert Drazkowski"
-  avatar           : "IMG_3361.png"
-  bio              : "Researcher is Stat & ML"
+  avatar           : "IMG_8972_jasne.png"
+  bio              : "Student is Stats & ML"
   location         : "Warsaw, Poland"
   employer         : "https://grape.org.pl/user/732"
   pubmed           : 
@@ -103,7 +103,7 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : "hubert-dr%C4%85%C5%BCkowski"
-  orcid            : #orcid Hubert Drazkowski
+  orcid            : "0000-0002-4885-3139"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
