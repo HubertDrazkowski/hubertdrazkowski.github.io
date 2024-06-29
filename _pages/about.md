@@ -10,10 +10,13 @@ redirect_from:
 In the process of building ...
 
 <div style="text-align: justify; padding-bottom: 20px;"> 
-I love applied mathematics. In particular statistics and machine learning. Currently, I focus my attention on combining sequential decision making and causal inference.
-
-  
+I love applied mathematics. In particular statistics and machine learning. Currently, I focus my attention on combining sequential decision making and causal inference.  
 </div>
+
+
+
+
+
 
 
 <div style="text-align: justify"> 
