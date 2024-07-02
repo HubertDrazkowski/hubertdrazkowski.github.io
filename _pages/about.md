@@ -13,7 +13,19 @@ In the process of building ...
 I love applied mathematics. In particular statistics and machine learning. Currently, I focus my attention on combining sequential decision making and causal inference.  
 </div>
 
-
+<div style="text-align: justify; padding-bottom: 20px;">
+  My stack:
+  <ul>
+    <li> Bachelor level economics</li>
+    <li> Bachelor level pure mathematics</li>
+    <li> Graduate level probability and statistics</li>
+    <li> Machine learning</li>
+    <li> Causality and causal inference</li>
+    <li> Sequential decision making (bandits, RL, active inference)</li>
+    <li> Programming for data science purposes</li>
+    <li> Strong presentation, communication and storytelling skills</li>
+  </ul>
+</div>
 
 
 
