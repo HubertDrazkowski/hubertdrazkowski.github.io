@@ -32,7 +32,7 @@ I love applied mathematics. In particular statistics and machine learning. Curre
 
 
 <div style="text-align: justify"> 
-    My name reads as <a href="https://translate.google.com/?sl=auto&tl=en&text=Dr%C4%85%C5%BCkowski&op=translate">"'ɣubɛrt ˈdrɔ̃ʐkɔfski"</a> \approx in English "Hoo-bert Drahnzh-koff-ski", where "Drah" is like "draw", but with a slightly more open "ah" sound, and "nzh" is like the "s" in "treasure".
+    My name Hubert Drazkowski reads as <a href="https://translate.google.com/?sl=auto&tl=en&text=Dr%C4%85%C5%BCkowski&op=translate">"'ɣubɛrt ˈdrɔ̃ʐkɔfski"</a> \approx in English "Hoo-bert Drahnzh-koff-ski", where "Drah" is like "draw", but with a slightly more open "ah" sound, and "nzh" is like the "s" in "treasure".
     I do not take responsibility for any tongue injuries. 
 </div>
 
