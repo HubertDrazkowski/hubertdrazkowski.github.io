@@ -16,13 +16,13 @@ I love applied mathematics. In particular statistics and machine learning. Curre
 <div style="text-align: justify; padding-bottom: 20px;">
   My stack:
   <ul>
-    <li> Bachelor level economics</li>
-    <li> Bachelor level pure mathematics</li>
-    <li> Graduate level probability and statistics</li>
-    <li> Machine learning</li>
-    <li> Causality and causal inference</li>
+    <li> Bachelor level economics </li>
+    <li> Bachelor level pure mathematics </li>
+    <li> Graduate level probability and statistics </li>
+    <li> Machine learning (SLT)</li>
+    <li> Causality and causal inference (SCM & PO)</li>
     <li> Sequential decision making (bandits, RL, active inference)</li>
-    <li> Programming for data science purposes</li>
+    <li> Programming for data science purposes (Python, R, Git)</li>
     <li> Strong presentation, communication and storytelling skills</li>
   </ul>
 </div>
@@ -32,7 +32,7 @@ I love applied mathematics. In particular statistics and machine learning. Curre
 
 
 <div style="text-align: justify"> 
-    My name Hubert Drazkowski reads as <a href="https://translate.google.com/?sl=auto&tl=en&text=Dr%C4%85%C5%BCkowski&op=translate">"'ɣubɛrt ˈdrɔ̃ʐkɔfski"</a> \approx in English "Hoo-bert Drahnzh-koff-ski", where "Drah" is like "draw", but with a slightly more open "ah" sound, and "nzh" is like the "s" in "treasure".
+    My name Drążkowski reads as <a href="https://translate.google.com/?sl=auto&tl=en&text=Dr%C4%85%C5%BCkowski&op=translate">"'ɣubɛrt ˈdrɔ̃ʐkɔfski"</a> \approx in English "Hoo-bert Drahnzh-koff-ski", where "Drah" is like "draw", but with a slightly more open "ah" sound, and "nzh" is like the "s" in "treasure".
     I do not take responsibility for any tongue injuries. 
 </div>
 
