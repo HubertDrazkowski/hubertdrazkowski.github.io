@@ -10,20 +10,24 @@ redirect_from:
 In the process of building ...
 
 <div style="text-align: justify; padding-bottom: 20px;"> 
+Applying to PhD programs ...
+
 I love applied mathematics. In particular statistics and machine learning. Currently, I focus my attention on combining sequential decision making and causal inference.  
+
+You can find my CV in the respective subpage.
 </div>
 
 <div style="text-align: justify; padding-bottom: 20px;">
   My stack:
   <ul>
-    <li> Bachelor level economics </li>
-    <li> Bachelor level pure mathematics </li>
-    <li> Graduate level probability and statistics </li>
-    <li> Machine learning (SLT)</li>
-    <li> Causality and causal inference (SCM & PO)</li>
-    <li> Sequential decision making (bandits, RL, active inference)</li>
-    <li> Programming for data science purposes (Python, R, Git)</li>
-    <li> Strong presentation, communication and storytelling skills</li>
+    <li> Economics (bachelor level) </li>
+    <li> Pure mathematics (bachelor level) </li>
+    <li> Probability and statistics (masters level) </li>
+    <li> Machine learning applied and theoretical </li>
+    <li> Causality and causal inference (SCM & PO) </li>
+    <li> Sequential decision making (bandits, MDP, POMDP, active learning) </li>
+    <li> Programming for data science purposes (Python, R, Git) </li>
+    <li> Strong presentation, communication and storytelling skills </li>
   </ul>
 </div>
 
