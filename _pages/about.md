@@ -7,10 +7,10 @@ redirect_from:
   - /about/
   - /about.html
 ---
-In the process of building ...
+Applying to PhD programs ...
 
 <div style="text-align: justify; padding-bottom: 20px;"> 
-Applying to PhD programs ...
+
   
 I love applied mathematics. In particular statistics and machine learning. Currently, I focus my attention on combining sequential decision making and causal inference.  
 
