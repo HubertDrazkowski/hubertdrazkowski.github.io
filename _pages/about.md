@@ -23,7 +23,7 @@ You can find my CV in the respective subpage.
     <li> Economics (bachelor level) </li>
     <li> Pure mathematics (bachelor level) </li>
     <li> Probability and statistics (masters level) </li>
-    <li> Machine learning applied and theoretical </li>
+    <li> Machine learning (applied and theoretical) </li>
     <li> Causality and causal inference (SCM & PO) </li>
     <li> Sequential decision making (bandits, MDP, POMDP, active learning) </li>
     <li> Programming for data science purposes (Python, R, Git) </li>
