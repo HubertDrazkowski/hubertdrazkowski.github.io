@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Applying to PhD programs ...
+In search for a place to pursue passion (PhD programs) ...
 
 <div style="text-align: justify; padding-bottom: 20px;"> 
 
