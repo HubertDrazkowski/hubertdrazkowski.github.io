@@ -12,7 +12,7 @@ Applying to PhD programs ...
 <div style="text-align: justify; padding-bottom: 20px;"> 
 
   
-I love applied mathematics. In particular statistics and machine learning. Currently, I focus my attention on combining sequential decision making and causal inference.  
+I love applied mathematics. In particular statistics and machine learning. Currently, I focus my attention on combining sequential decision making and causal inference. Sequential decision making, because it is about making impact and gathering useful information. Causality, because it formalizes knowledge.
 
 You can find my CV in the respective subpage.
 </div>
@@ -31,7 +31,9 @@ You can find my CV in the respective subpage.
   </ul>
 </div>
 
+<div style="text-align: justify; padding-bottom: 20px;">
 
+</div>
 
 
 
