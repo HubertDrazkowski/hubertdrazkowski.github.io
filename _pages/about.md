@@ -12,22 +12,22 @@ In search for a place to pursue passion (PhD programs) ...
 <div style="text-align: justify; padding-bottom: 20px;"> 
 
   
-I love applied mathematics. In particular statistics and machine learning. Currently, I focus my attention on combining sequential decision making and causal inference. Sequential decision making, because it is about making impact and gathering useful information. Causality, because it formalizes knowledge.
+I love applied mathematics. In particular, broadly defined statistics and machine learning. Currently, I focus my attention on **combining sequential decision making and causal inference**. Sequential decision making, because it is about making impact and gathering useful information. Causality, because it formalizes knowledge.
 
-You can find my CV in the respective subpage.
+You can find my CV on the respective subpage.
 </div>
 
 <div style="text-align: justify; padding-bottom: 20px;">
   My stack:
   <ul>
-    <li> Economics (bachelor level) </li>
-    <li> Pure mathematics (bachelor level) </li>
-    <li> Probability and statistics (masters level) </li>
-    <li> Machine learning (applied and theoretical) </li>
-    <li> Causality and causal inference (SCM & PO) </li>
-    <li> Sequential decision making (bandits, MDP, POMDP, active learning) </li>
-    <li> Programming for data science purposes (Python, R, Git) </li>
-    <li> Strong presentation, communication and storytelling skills </li>
+    <li> **Economics** (Bachelor's level) </li>
+    <li> **Pure mathematics** (Bachelor's level) </li>
+    <li> **Probability and statistics** (Master's level) </li>
+    <li> **Machine learning** (applied and theoretical) </li>
+    <li> **Causality and causal inference** (SCM & PO) </li>
+    <li> **Sequential decision making** (bandits, MDP, POMDP, active learning) </li>
+    <li> **Programming for data science purposes** (Python, R, SQL, Git) </li>
+    <li> **Strong presentation, communication and storytelling skills** </li>
   </ul>
 </div>
 
