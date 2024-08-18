@@ -21,13 +21,13 @@ You can find my CV on the respective subpage.
   My stack:
   <ul>
     <li> <strong>Economics</strong> (Bachelor's level) </li>
-    <li> <strong>Pure mathematics</strong>strong> (Bachelor's level) </li>
-    <li> <strong>Probability and statistics</strong>strong> (Master's level) </li>
-    <li> <strong>Machine learning</strong>strong> (applied and theoretical) </li>
-    <li> <strong>Causality and causal inference</strong>strong> (SCM & PO) </li>
-    <li> <strong>Sequential decision making</strong>strong> (bandits, MDP, POMDP, active learning) </li>
-    <li> <strong>Programming for data science purposes</strong>strong> (Python, R, SQL, Git) </li>
-    <li> <strong>Strong presentation, communication and storytelling skills</strong>strong> </li>
+    <li> <strong>Pure mathematics</strong> (Bachelor's level) </li>
+    <li> <strong>Probability and statistics</strong> (Master's level) </li>
+    <li> <strong>Machine learning</strong> (applied and theoretical) </li>
+    <li> <strong>Causality and causal inference</strong> (SCM & PO) </li>
+    <li> <strong>Sequential decision making</strong> (bandits, MDP, POMDP, active learning) </li>
+    <li> <strong>Programming for data science purposes</strong> (Python, R, SQL, Git) </li>
+    <li> <strong>Strong presentation, communication and storytelling skills</strong> </li>
   </ul>
 </div>
 
