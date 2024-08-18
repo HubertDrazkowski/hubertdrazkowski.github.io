@@ -12,7 +12,7 @@ In search for a place to pursue passion (PhD programs) ...
 <div style="text-align: justify; padding-bottom: 20px;"> 
 
   
-I love applied mathematics. In particular, broadly defined statistics and machine learning. Currently, I focus my attention on **combining sequential decision making and causal inference**. Sequential decision making appeals to me, because it is about making impact and gathering useful information. Causality fascinates me, because it formalizes knowledge.
+I love applied mathematics. In particular, broadly defined statistics and machine learning. Currently, I focus my attention on </strong>combining sequential decision making and causal inference</strong>. Sequential decision making appeals to me, because it is about making impact and gathering useful information. Causality fascinates me, because it formalizes knowledge.
 
 You can find my CV on the respective subpage.
 </div>
@@ -20,14 +20,14 @@ You can find my CV on the respective subpage.
 <div style="text-align: justify; padding-bottom: 20px;">
   My stack:
   <ul>
-    <li> **Economics** (Bachelor's level) </li>
-    <li> **Pure mathematics** (Bachelor's level) </li>
-    <li> **Probability and statistics** (Master's level) </li>
-    <li> **Machine learning** (applied and theoretical) </li>
-    <li> **Causality and causal inference** (SCM & PO) </li>
-    <li> **Sequential decision making** (bandits, MDP, POMDP, active learning) </li>
-    <li> **Programming for data science purposes** (Python, R, SQL, Git) </li>
-    <li> **Strong presentation, communication and storytelling skills** </li>
+    <li> <strong>Economics</strong> (Bachelor's level) </li>
+    <li> <strong>Pure mathematics</strong>strong> (Bachelor's level) </li>
+    <li> <strong>Probability and statistics</strong>strong> (Master's level) </li>
+    <li> <strong>Machine learning</strong>strong> (applied and theoretical) </li>
+    <li> <strong>Causality and causal inference</strong>strong> (SCM & PO) </li>
+    <li> <strong>Sequential decision making</strong>strong> (bandits, MDP, POMDP, active learning) </li>
+    <li> <strong>Programming for data science purposes</strong>strong> (Python, R, SQL, Git) </li>
+    <li> <strong>Strong presentation, communication and storytelling skills</strong>strong> </li>
   </ul>
 </div>
 
@@ -72,7 +72,7 @@ Create content & metadata
 ------
 For site content, there is one markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://academicpages.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory).
 
-**Markdown generator**
+<strong>Markdown generator<strong>
 
 I have also created [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
 ) that converts a CSV containing structured data about talks or presentations into individual markdown files that will be properly formatted for the academicpages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the markdown files, then commit and push them to the GitHub repository.
