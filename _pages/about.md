@@ -13,7 +13,9 @@ In search for a place to pursue passion (PhD programs) ...
 
   
 I love applied mathematics. In particular, broadly defined statistics and machine learning. Currently, I focus my attention on <strong>combining sequential decision making and causal inference</strong>. Sequential decision making appeals to me, because it is about making impact and gathering useful information. Causality fascinates me, because it formalizes knowledge.
+</div>
 
+<div style="text-align: justify; padding-bottom: 20px;"> 
 You can find my CV on the respective subpage.
 </div>
 
