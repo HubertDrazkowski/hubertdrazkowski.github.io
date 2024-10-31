@@ -15,8 +15,8 @@ main:
   - title: "CV"
     url: /files/CV_102024.pdf
     
-  - title: "PopScience Blog"
-    url: /year-archive/
+  # - title: "PopScience Blog"
+  #   url: /year-archive/
     
   # - title: "Guide"
   #   url: /markdown/
