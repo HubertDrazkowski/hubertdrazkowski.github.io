@@ -11,8 +11,18 @@ In search for a place to pursue passion (PhD programs) ...
 
 <div style="text-align: justify; padding-bottom: 20px;"> 
 
-  
-I love applied mathematics. In particular, broadly defined statistics and machine learning. Currently, I focus my attention on <strong>combining sequential decision making and causal inference</strong>. Sequential decision making appeals to me, because it is about making impact and gathering useful information. Causality fascinates me, because it formalizes knowledge.
+I love applied mathematics. In particular, broadly defined statistics and machine learning - inferring parameters of the world and uncertainty about them from data around us. I focus my attention on <strong>combining sequential decision making and causality</strong>. Sequential decision making appeals to me, because (1) it mimics real world, (2) improves efficiency relative to static scenarios, and (3) is about gathering useful information through interaction with environment. Causality fascinates me, because it formalizes knowledge (1) by including interventional and (2) counterfactual queries. I strongly believe the two fields are stepping stones on the path to AGI.
+</div>
+
+<div style="text-align: justify; padding-bottom: 20px;"> 
+My research interests include:
+  <ul>
+    <li> <strong>CausalML </strong>  </li>
+    <li> <strong>CausalRL </strong>  </li>
+    <li> <strong>Bandits </strong>  </li>
+    <li> <strong>Causal Inference </strong>  </li>
+    <li> <strong>Active Learning </strong>  </li>
+     </ul>
 </div>
 
 <div style="text-align: justify; padding-bottom: 20px;"> 
@@ -27,7 +37,7 @@ You can find my CV on the respective subpage.
     <li> <strong>Probability and statistics</strong> (Master's level) </li>
     <li> <strong>Machine learning</strong> (applied and theoretical) </li>
     <li> <strong>Causality and causal inference</strong> (SCM & PO) </li>
-    <li> <strong>Sequential decision making</strong> (bandits, MDP, POMDP, active learning) </li>
+    <li> <strong>Sequential decision making</strong> (bandits, MDP, active learning) </li>
     <li> <strong>Programming for data science purposes</strong> (Python, R, SQL, Git) </li>
     <li> <strong>Strong presentation, communication and storytelling skills</strong> </li>
   </ul>
