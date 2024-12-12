@@ -15,7 +15,7 @@ I love applied mathematics. In particular, broadly defined statistics and machin
 </div>
 
 <div style="text-align: justify; padding-bottom: 20px;"> 
-My research interests include:
+My research obsessions include:
   <ul>
     <li> <strong>CausalML </strong>  </li>
     <li> <strong>CausalRL </strong>  </li>
