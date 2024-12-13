@@ -14,7 +14,7 @@ My love to applied mathematics is rooted in broadly defined statistics and machi
 </div>
 
 <div style="text-align: justify; padding-bottom: 20px;"> 
-Sequential decision making appeals to me for several reasons: (1) it reflects the dynamic nature of the real world, where decisions are made iteratively over time (2) it allows for improved efficiency relative to static scenarios by enabling adaptive changes as new information becomes available (3) it is about gathering useful information through interaction with environment facilitating active sampling (4) and gives teleological formalism of long-term goals.
+Sequential decision making appeals to me for several reasons: (1) it reflects the dynamic nature of the real world, where decisions are made iteratively over time (2) it allows for improved efficiency relative to static scenarios by enabling adaptive changes as new information becomes available (3) it is about gathering useful information through interaction with environment facilitating active sampling (4) and gives formalism of long-term goals.
 </div>
 
 <div style="text-align: justify; padding-bottom: 20px;"> 
