@@ -11,7 +11,13 @@ In search for a place to pursue passion (PhD programs) ...
 
 <div style="text-align: justify; padding-bottom: 20px;"> 
 
-I love applied mathematics. In particular, broadly defined statistics and machine learning - inferring parameters of the world and uncertainty about them from data around us. I focus my attention on <strong>combining sequential decision making and causality</strong>. Sequential decision making appeals to me, because (1) it mimics real world, (2) improves efficiency relative to static scenarios, and (3) is about gathering useful information through interaction with environment. Causality fascinates me, because it formalizes knowledge (1) by including interventional and (2) counterfactual queries. I strongly believe the two fields are stepping stones on the path to AGI.
+My love to applied mathematics is rooted in broadly defined statistics and machine learning - inferring models of the world and their parameters, as well as rigorously quantifying uncertainty around them from data around us. My primary focus is on <strong>combining sequential decision making and causality</strong>.
+
+Sequential decision making appeals to me for several reasons: (1) it reflects the dynamic nature of the real world, where decisions are made iteratively over time (2) it allows for improved efficiency relative to static scenarios by enabling adaptive changes as new information becomes available (3) it is about gathering useful information through interaction with environment facilitating active sampling (4) and gives teleological formalism of long-term goals.
+
+Causality fascinates me, due to its power to formalize knowledge and structure reasoning by: (1) distinguisihing between observing naturally ocurring processes and interventions (2) providing a framework for understanding how changes in one variable can bring about changes in another (3) it offers tools to explore counterfactual queries, which allow us to reason precisely about  alternative choices.
+
+I strongly believe that the interplay between sequential decision-making and causality represents a crucial step towards human-AI collaboration and AGI. Sequential decision-making offers the capacity for adaptive, goal-oriented learning, while causality provides a rigorous foundation for understanding and reasoning about change. Together, they chart a promising path toward creating systems that are not only reactive but also proactive, reasoning agents capable of navigating the complexity of the real world.
 </div>
 
 <div style="text-align: justify; padding-bottom: 20px;"> 
