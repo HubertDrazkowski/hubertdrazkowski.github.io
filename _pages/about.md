@@ -14,7 +14,7 @@ My love to applied mathematics is rooted in broadly defined statistics and machi
 </div>
 
 <div style="text-align: justify; padding-bottom: 20px;"> 
-Sequential decision making appeals to me for several reasons: (1) it reflects the dynamic nature of the real world, where decisions are made iteratively over time (2) it allows for improved efficiency relative to static scenarios by enabling adaptive changes as new information becomes available (3) it is about gathering useful information through interaction with environment facilitating active sampling (4) and gives formalism of long-term goals.
+Sequential decision making appeals to me for several reasons: (1) it reflects the dynamic nature of the real world, where decisions are made iteratively over time (2) it allows for improved efficiency relative to static scenarios by enabling adaptive changes as new information becomes available (3) it is about gathering useful information through interaction with environment - facilitating active sampling (4) gives formalism of long-term goals.
 </div>
 
 <div style="text-align: justify; padding-bottom: 20px;"> 
@@ -22,7 +22,7 @@ Causality fascinates me, due to its power to formalize knowledge and structure r
 </div>
 
 <div style="text-align: justify; padding-bottom: 20px;"> 
-I strongly believe that the interplay between sequential decision-making and causality represents a crucial step towards human-AI collaboration and AGI. Sequential decision-making offers the capacity for adaptive, goal-oriented learning, while causality provides a rigorous foundation for understanding and reasoning about change. Together, they chart a promising path toward creating systems that are not only reactive but also proactive, reasoning agents capable of navigating the complexity of the real world.
+I strongly believe that the interplay between sequential decision making and causality represents a crucial step towards human-AI collaboration and AGI. Sequential decision making offers the capacity for adaptive, goal-oriented learning, while causality provides a rigorous foundation for understanding and reasoning about change. Together, they chart a promising path toward creating systems that are not only reactive but also proactive, reasoning agents capable of navigating the complexity of the real world.
 </div>
 
 <div style="text-align: justify; padding-bottom: 20px;"> 
