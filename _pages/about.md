@@ -18,7 +18,7 @@ Sequential decision making appeals to me for several reasons: (1) it reflects th
 </div>
 
 <div style="text-align: justify; padding-bottom: 20px;"> 
-Causality fascinates me, due to its power to formalize knowledge and structure reasoning by: (1) distinguisihing between observing naturally ocurring processes and interventions (2) providing a framework for understanding how changes in one variable can bring about changes in another (3) it offers tools to explore counterfactual queries, which allow us to reason precisely about  alternative choices.
+Causality fascinates me, due to its power to formalize knowledge and structure reasoning by: (1) distinguishing between observing naturally ocurring processes and interventions (2) providing a framework for understanding how changes in one variable can bring about changes in another (3) it offers tools to explore counterfactual queries, which allow us to reason precisely about  alternative choices.
 </div>
 
 <div style="text-align: justify; padding-bottom: 20px;"> 
