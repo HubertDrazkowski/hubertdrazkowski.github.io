@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 <div style="text-align: justify; padding-bottom: 20px;"> 
-My love to applied mathematics is rooted in broadly defined statistics and machine learning - inferring models of the world and their parameters, as well as rigorously quantifying uncertainty around them from data around us. My primary focus is on <strong>combining sequential decision making and causality</strong>.
+My love to applied mathematics is rooted in broadly defined <strong>statistics and machine learning</strong> - inferring models of the world and their parameters, as well as rigorously quantifying uncertainty around them from data around us. My primary focus is on <strong>combining sequential decision making and causality</strong>.
 </div>
 
 <div style="text-align: justify; padding-bottom: 20px;"> 
