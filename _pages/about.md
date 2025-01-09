@@ -7,7 +7,6 @@ redirect_from:
   - /about/
   - /about.html
 ---
-In search for a place to pursue passion (PhD programs) ...
 
 <div style="text-align: justify; padding-bottom: 20px;"> 
 My love to applied mathematics is rooted in broadly defined statistics and machine learning - inferring models of the world and their parameters, as well as rigorously quantifying uncertainty around them from data around us. My primary focus is on <strong>combining sequential decision making and causality</strong>.
