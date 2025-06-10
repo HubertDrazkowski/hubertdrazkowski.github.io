@@ -81,9 +81,9 @@ analytics:
 # Site Author
 author:
   name             : "Hubert Drazkowski"
-  avatar           : "IMG_8972_jasne.JPG"
-  bio              : "Student is Stats & ML"
-  location         : "Warsaw, Poland"
+  avatar           : "_portrait2_.JPG" #"IMG_8972_jasne.JPG"
+  bio              : "PhD Student in ML"
+  location         : "Copenhagen, Denmark"
   employer         : "grape.org.pl/user/732"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=Hv2uaWkAAAAJ&hl=en&oi=sra"
