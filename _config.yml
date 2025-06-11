@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Hubert Drazkowski"
-  avatar           : "_portrait2_.JPG" #"IMG_8972_jasne.JPG"
+  avatar           : "IMG_8972_jasne.JPG" #"_portrait2_.JPG" #"IMG_8972_jasne.JPG"
   bio              : "PhD Student in ML"
   location         : "Copenhagen, Denmark"
   employer         : "grape.org.pl/user/732"
