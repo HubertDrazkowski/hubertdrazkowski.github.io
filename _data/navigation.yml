@@ -11,6 +11,9 @@ main:
     
   # - title: "Portfolio"
   #   url: /portfolio/
+
+  - title: "Ikigai"
+    url: /ikigai/
         
   - title: "CV"
     url: /files/CV_2025.pdf
