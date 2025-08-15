@@ -4,7 +4,7 @@ title: "My Ikigai"
 excerpt: "Ikigai"
 author_profile: true
 redirect_from:
-  - /ikigai.html
+  - /ikigai.html/
 ---
 
 <div style="text-align: justify; padding-bottom: 20px;"> 
