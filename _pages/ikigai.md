@@ -1,10 +1,9 @@
 ---
 permalink: /ikigai/
-title: "About me"
-excerpt: "About me"
+title: "My Ikigai"
+excerpt: "Ikigai"
 author_profile: true
-redirect_from: 
-  - /ikigai/
+redirect_from:
   - /ikigai.html
 ---
 
