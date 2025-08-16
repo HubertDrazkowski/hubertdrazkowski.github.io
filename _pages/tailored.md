@@ -21,5 +21,5 @@ Existing research often examines the two types of data in isolation. We aim to d
 
 <div style="text-align: justify; padding-bottom: 20px;"> 
 The research will combine recent developments in causality and reinforcement learning. The former offers a formal approach to modeling the two forms of data collection, while the latter provides a framework for adaptive decision-making.
-Outcomes of the project will have potential future applications in healthcare, education, agroecology, and many other domains, which can benefit from integration of observational and interventional data.
+Outcomes of the project will have potential future applications in healthcare, education, agroecology, and many other domains, which can benefit from integration of observational and interventional data. It will open the opportunity to tailor the applications reliably thanks to the richness of observational data and quality of interventional data.
 </div>
