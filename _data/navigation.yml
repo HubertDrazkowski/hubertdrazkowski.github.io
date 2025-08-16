@@ -12,6 +12,12 @@ main:
   # - title: "Portfolio"
   #   url: /portfolio/
 
+  # - title: "Publications"
+  #   url: /publications/
+
+  - title: "TAILORED"
+    url: /tailored/
+
   - title: "My Ikigai"
     url: /ikigai/
         
