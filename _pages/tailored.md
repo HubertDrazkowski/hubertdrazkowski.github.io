@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 <div style="text-align: justify; padding-bottom: 20px;"> 
-NNF Project Grant in the Natural and Technical Sciences 2024 - 2027.
+NNF Project Grant in the Natural and Technical Sciences 2024 (2025 - 2028).
 </div>
 
 <div style="text-align: justify; padding-bottom: 20px;"> 
