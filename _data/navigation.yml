@@ -23,6 +23,9 @@ main:
         
   - title: "CV"
     url: /files/CV_2025.pdf
+
+  - title: "Students"
+    url: /files/SL_2025.pdf    
     
   # - title: "PopScience Blog"
   #   url: /year-archive/
