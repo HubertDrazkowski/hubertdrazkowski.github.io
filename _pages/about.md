@@ -30,4 +30,4 @@ latest_posts:
 I am a first year PhD fellow in Theoretical Machine Learning at Copenhagen University.
 I am a member of CoCaLab and DeLTa lab. 
 
-I am interested in causal, sequential, interactive.
+I am interested in causal, sequential and interactive.
