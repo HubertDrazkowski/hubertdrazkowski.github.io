@@ -440,16 +440,17 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-a-simple-inline-announcement",
-          title: 'A simple inline announcement.',
+            },},{id: "news-academy-of-management-annual-meeting-two-works-involving-combination-of-data-heavy-stats-rigorous-management-science-research",
+          title: 'Academy of Management Annual Meeting — two works involving combination of data heavy...',
           description: "",
-          section: "News",},{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
+          section: "News",},{id: "news-danish-digitalization-data-science-and-ai-d3a-poster-on-collider-separation-on-summary-graphs-properties-for-cross-sectional-data-learning-theory-workshop",
+          title: 'Danish Digitalization, Data Science, and AI - D3A — poster on collider separation...',
           description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_2/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
+          section: "News",},{id: "news-moody-39-s-analytics-2nd-research-symposium-talk-on-big-data-objective-relative-robust-amp-assumptions-lean-methodological-approach-to-management-science",
+          title: 'Moody&amp;#39;s Analytics 2nd Research Symposium --- talk on big data, objective=relative, robust &amp;amp;...',
+          description: "",
+          section: "News",},{id: "news-eurips-poster-on-extending-proximal-variables-regression-causality-for-impact-workshop",
+          title: 'EurIPS — poster on extending proximal variables regression (Causality for Impact workshop)',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
