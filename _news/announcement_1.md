@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
+date: 2025-08
 inline: true
 related_posts: false
 ---
 
-A simple inline announcement.
+Danish Digitalization, Data Science, and AI - D3A --- poster on collider separation on summary graphs properties for cross-sectional data  (Learning Theory workshop)
