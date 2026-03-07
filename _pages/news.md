@@ -5,5 +5,5 @@ permalink: /news/
 nav: true
 nav_order: 2
 ---
-
+(Archive)
 {% include news.liquid %}
