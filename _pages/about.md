@@ -33,3 +33,13 @@ I am
 - advised by [Yevgeny Seldin](https://sites.google.com/site/yevgenyseldin/) and [Sebastian Weichwald](https://sweichwald.de/)
 - a member of [CoCaLa](https://cocala.github.io/) and [DeLTa](https://sites.google.com/diku.edu/delta) labs
 - interested in causal, sequential and interactive
+
+
+
+
+
+    My name Drążkowski reads as <a href="https://translate.google.com/?sl=auto&tl=en&text=Dr%C4%85%C5%BCkowski&op=translate">"'ɣubɛrt ˈdrɔ̃ʐkɔfski"</a> \approx in English "Hoo-bert Drahnzh-koff-ski", where "Drah" is like "draw", but with a slightly more open "ah" sound, and "nzh" is like the "s" in "treasure".
+    I do not take responsibility for any tongue injuries. 
+
+
+
