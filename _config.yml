@@ -185,7 +185,6 @@ kramdown:
 # Includes & excludes
 include: ["_pages", "_scripts"]
 exclude:
-  - _pages/students.md
   - _pages/projects.md
   - _pages/submenus.md
   - _pages/blog.md
