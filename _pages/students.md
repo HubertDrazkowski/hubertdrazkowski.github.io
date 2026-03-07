@@ -6,10 +6,10 @@ nav: true
 nav_order: 4
 ---
 
-### Prospective students
+#### Prospective students
 - [Supervision Letter](/assets/pdf/SupervisroLetter.pdf) (for those interested in doing a MSc or BSc project together)
 
-### Teaching
+#### Teaching
 Online and Reinforcement Learning (materials ... in progress)
 
 
