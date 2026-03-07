@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 # subtitle: Causality, 
 # <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
