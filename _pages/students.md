@@ -6,6 +6,5 @@ nav: true
 nav_order: 4
 ---
 
-## Current students
-
+### Prospective students
 - [Supervision Letter](/assets/pdf/SupervisroLetter.pdf) (for those interested in doing a MSc or BSc project together)
