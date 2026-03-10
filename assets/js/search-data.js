@@ -420,7 +420,7 @@ ninja.data = [{
           section: "News",},{id: "news-a-paper-beware-of-hinges-in-proximal-variables-regression-adjusting-for-colliding-mediators-with-nuisance-pv-is-accepted-at-clear-2026",
           title: 'A paper Beware of Hinges in Proximal Variables Regression: Adjusting for Colliding-Mediators with...',
           description: "",
-          section: "News",},{id: "news-a-paper-cross-sectional-conditional-independence-in-stationary-time-series-graphical-equivalence-and-completeness-of-collider-separation-is-accepted-for-oral-presentation-at-clear-2026",
+          section: "News",},{id: "news-a-paper-cross-sectional-conditional-independence-in-stationary-time-series-graphical-equivalence-and-completeness-of-collider-separation-is-accepted-for-oral-presentation-at-clear-2026-notable-8-6-of-submissions",
           title: 'A paper Cross-Sectional Conditional Independence in Stationary Time Series: Graphical Equivalence and Completeness...',
           description: "",
           section: "News",},{id: "projects-project-1",
