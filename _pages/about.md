@@ -35,16 +35,6 @@ I am
 - interested in causal, sequential and interactive
 
 
-Silly fun fact <details style="display:inline;">
-  <summary style="display:inline; cursor:pointer; color: var(--global-theme-color);">
-    .
-  </summary>
-  <span>
-        My name Drążkowski reads as <a href="https://translate.google.com/?sl=auto&tl=en&text=Dr%C4%85%C5%BCkowski&op=translate">"'ɣubɛrt ˈdrɔ̃ʐkɔfski"</a> ~~ in English "Hoo-bert Drahnzh-koff-ski", where "Drah" is like "draw", but with a slightly more open "ah" sound, and "nzh" is like the "s" in "treasure".
-    
-    I do not take responsibility for any tongue injuries. 
-  </span>
-</details>
 
 
 
