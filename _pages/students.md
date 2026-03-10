@@ -12,7 +12,8 @@ nav_order: 4
 #### Teaching
 Online and Reinforcement Learning (materials ... in progress)
 
-
+#### Students
+******, "*****" (BSc Thesis in Machine Learning and Data Science, 2026)
 
 
 
