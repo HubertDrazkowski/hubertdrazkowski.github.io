@@ -405,7 +405,10 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-academy-of-management-annual-meeting-two-works-involving-combination-of-data-heavy-stats-rigorous-management-science-research",
+            },},{id: "news-started-phd-at-university-of-copenhagen",
+          title: 'Started PhD at University of Copenhagen.',
+          description: "",
+          section: "News",},{id: "news-academy-of-management-annual-meeting-two-works-involving-combination-of-data-heavy-stats-rigorous-management-science-research",
           title: 'Academy of Management Annual Meeting — two works involving combination of data heavy...',
           description: "",
           section: "News",},{id: "news-danish-digitalization-data-science-and-ai-d3a-poster-on-collider-separation-on-summary-graphs-properties-for-cross-sectional-data-learning-theory-workshop",
