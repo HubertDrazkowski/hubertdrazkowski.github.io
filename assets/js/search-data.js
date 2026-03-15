@@ -411,7 +411,7 @@ ninja.data = [{
           section: "News",},{id: "news-academy-of-management-annual-meeting-two-works-involving-combination-of-data-heavy-stats-rigorous-management-science-research",
           title: 'Academy of Management Annual Meeting — two works involving combination of data heavy...',
           description: "",
-          section: "News",},{id: "news-danish-digitalization-data-science-and-ai-d3a-poster-on-collider-separation-on-summary-graphs-properties-for-cross-sectional-data-learning-theory-workshop",
+          section: "News",},{id: "news-danish-digitalization-data-science-and-ai-d3a-poster-on-collider-separation-on-summary-graphs-properties-for-cross-sectional-data-machine-learning-theory-workshop",
           title: 'Danish Digitalization, Data Science, and AI - D3A — poster on collider separation...',
           description: "",
           section: "News",},{id: "news-moody-s-analytics-2nd-research-symposium-talk-on-big-data-objective-relative-robust-amp-amp-assumptions-lean-methodological-approach-to-management-science",
