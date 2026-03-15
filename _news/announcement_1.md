@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Danish Digitalization, Data Science, and AI - [D3A](https://d3aconference.dk/) --- poster on collider separation on summary graphs properties for cross-sectional data  (Learning Theory workshop)
+Danish Digitalization, Data Science, and AI - [D3A](https://d3aconference.dk/) --- poster on collider separation on summary graphs properties for cross-sectional data  ([Machine Learning Theory](https://d3aconference.dk/machine-learning-theory-2/) workshop)
