@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
- EurIPS --- poster on extending proximal variables regression (Causality for Impact workshop)
+ EurIPS --- poster on extending proximal variables regression ([Causality for Impact workshop](https://impact-25.causal.dev/))
