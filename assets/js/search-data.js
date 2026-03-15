@@ -405,8 +405,8 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-started-phd-at-university-of-copenhagen",
-          title: 'Started PhD at University of Copenhagen.',
+            },},{id: "news-started-phd-at-university-of-copenhagen-our-grant-application-tailored-theorteical-foundations-of-learning-with-observational-and-interventional-data-to-nnf-project-grants-in-the-natural-and-technical-sciences-2025-has-been-funded",
+          title: 'Started PhD at University of Copenhagen. Our grant application “TAILORED: Theorteical Foundations of...',
           description: "",
           section: "News",},{id: "news-academy-of-management-annual-meeting-two-works-involving-combination-of-data-heavy-stats-rigorous-management-science-research",
           title: 'Academy of Management Annual Meeting — two works involving combination of data heavy...',
