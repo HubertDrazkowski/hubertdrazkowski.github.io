@@ -10,7 +10,7 @@ profile:
   image: portrait2.JPG
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p> hubert(dot)drazkowski(?)di.ku.dk </p>
+    <p> hubert(dot)drazkowski(at)di.ku.dk </p>
 #    <p>123 your address street</p>
 #    <p>Your City, State 12345</p>
 
