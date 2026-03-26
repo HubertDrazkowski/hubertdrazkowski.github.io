@@ -426,7 +426,7 @@ ninja.data = [{
           section: "News",},{id: "news-a-paper-cross-sectional-conditional-independence-in-stationary-time-series-graphical-equivalence-and-completeness-of-collider-separation-is-accepted-for-oral-presentation-at-clear-2026-notable-8-6-of-submissions",
           title: 'A paper Cross-Sectional Conditional Independence in Stationary Time Series: Graphical Equivalence and Completeness...',
           description: "",
-          section: "News",},{id: "news-i-will-present-my-new-working-paper-identifying-causal-effects-using-proximal-time-series-correcting-for-the-past-in-vars-with-proxies-at-the-eurocim-https-eurocim-org-oxford-2026-program-2026-workshop",
+          section: "News",},{id: "news-i-will-present-my-new-working-paper-identifying-causal-effects-using-proximal-time-series-correcting-for-the-past-in-vars-with-proxies-at-the-eurocim-2026-workshop",
           title: 'I will present my new working paper Identifying Causal Effects using Proximal Time...',
           description: "",
           section: "News",},{id: "projects-project-1",
