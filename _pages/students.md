@@ -13,7 +13,7 @@ nav_order: 4
 Online and Reinforcement Learning (materials ... in progress)
 
 #### Students
-*, "*" (BSc Thesis in Machine Learning and Data Science, 2026)
+Christina Angela Ghandforoush, "Inverse Belief: Explaining Nonstationary Decision Makers" (BSc Thesis in Machine Learning and Data Science, 2026)
 
 
 
