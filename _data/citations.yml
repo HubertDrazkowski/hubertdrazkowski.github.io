@@ -1,14 +1,18 @@
 metadata:
-  last_updated: '2026-05-25'
+  last_updated: '2026-08-10'
 papers:
   Hv2uaWkAAAAJ:Tyk-4Ss8FVUC:
     citations: 0
-    title: Gender Diversity Spillovers Through Ownership Networks in Corporate Europe
+    title: Gender diversity spillovers through ownership networks in corporate Europe
     year: '2025'
   Hv2uaWkAAAAJ:UeHWp8X0CEIC:
-    citations: 9
+    citations: 10
     title: Gender board diversity across Europe throughout four decades
     year: '2024'
+  Hv2uaWkAAAAJ:WF5omc3nYNoC:
+    citations: 0
+    title: 'Cross-Sectional Conditional Independence in Stationary Time Series: Graphical Equivalence and Completeness of Collider Separation'
+    year: '2026'
   Hv2uaWkAAAAJ:YsMSGLbcyi4C:
     citations: 0
     title: 'Beyond the pipeline: assessing gender neutrality in board appointments in corporate Europe'
@@ -17,7 +21,11 @@ papers:
     citations: 2
     title: 'The Evolution of the Labour Share in Poland: New Evidence from Firm-Level Data'
     year: '2023'
+  Hv2uaWkAAAAJ:eQOLeE2rZwMC:
+    citations: 0
+    title: 'Beware of Hinges in Proximal Variables Regression: Adjusting for Colliding-Mediators with Nuisance PV'
+    year: '2026'
   Hv2uaWkAAAAJ:qjMakFHDy7sC:
-    citations: 2
+    citations: 3
     title: Gender board diversity spillovers and the public eye
     year: '2023'
