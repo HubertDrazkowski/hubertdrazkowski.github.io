@@ -29,7 +29,7 @@ latest_posts:
 ---
 
 I am 
-- a first year PhD fellow in Theoretical Machine Learning at University of Copenhagen
+- a second year PhD fellow in Theoretical Machine Learning at University of Copenhagen
 - advised by [Yevgeny Seldin](https://sites.google.com/site/yevgenyseldin/) and [Sebastian Weichwald](https://sweichwald.de/)
 - a member of [CoCaLa](https://cocala.github.io/) and [DeLTa](https://sites.google.com/diku.edu/delta) labs
 - interested in causal, sequential and interactive
